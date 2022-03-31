@@ -1,0 +1,385 @@
+Sample_ID,well_type,wga_cp,wgs_run_id,raw_read_count,final_contigs_count,final_assembly_length,max_contig_length,gc_content,checkM_estimated_completeness,number_multi_copy,checkM_classification,SSU_classification_1
+AG-910-A01,1 cell,3.23953599,AG-910,61589,14,72175,20059,24.66920679,2.68,0,k__Archaea (root);k__Archaea,no SSU regions found
+AG-910-A02,1 cell,1.769892839,AG-910,2596242,26,502406,120161,33.12500249,40.52,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-A03,1 cell,2.200093752,AG-910,2514079,32,240410,24968,47.10660954,0,0,NA;unresolved,no SSU regions found
+AG-910-A04,1 cell,1.959265595,AG-910,2648866,24,473338,111384,32.7499588,24.56,0,k__Bacteria;p__Tenericutes;c__Mollicutes,no SSU regions found
+AG-910-A05,1 cell,8.659012604,AG-910,210713,1,4106,4106,39.89283975,0,0,NA;unresolved,no SSU regions found
+AG-910-A06,1 cell,1.980436155,AG-910,2652499,40,1010309,179684,29.6872541,76.51,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-A07,1 cell,11.63138863,AG-910,322717,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-A08,1 cell,15.35277778,AG-910,287668,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-A09,1 cell,15.35277778,AG-910,502,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-A10,1 cell,2.117133638,AG-910,3365577,29,942988,175491,34.17943813,48.94,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSU regions found
+AG-910-A11,1 cell,4.011003397,AG-910,484411,7,39553,11251,29.2392486,0,0,NA;unresolved,no SSU regions found
+AG-910-A12,No drop,15.35277778,AG-910,39621,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-A13,1 cell,2.630315123,AG-910,487160,40,397105,25783,30.72839677,27.38,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales_2;f__Thiotrichaceae;g__Thiothrix,no SSU regions found
+AG-910-A14,1 cell,2.242015867,AG-910,4656716,44,666930,57873,32.81513802,32.08,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-A15,1 cell,2.413865309,AG-910,3263638,32,669512,122969,29.49655869,56.63,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_2;g__?;s__?
+AG-910-A16,1 cell,2.384779852,AG-910,4548819,33,649299,87176,32.65644949,45.14,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,k__Bacteria;p__Actinobacteria;c__Acidimicrobiia;o__Acidimicrobiales;f__OM1_clade;g__Candidatus_Actinomarina;s__?
+AG-910-A17,1 cell,2.197060166,AG-910,2593867,47,932004,138112,29.67637478,56.63,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-A18,1 cell,6.776504267,AG-910,517708,7,21696,4763,25.7144174,1.01,0,k__Archaea (root);k__Archaea,no SSU regions found
+AG-910-A19,1 cell,2.135154037,AG-910,3807969,41,700706,82580,28.73673124,45.49,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSUs were classified
+AG-910-A20,1 cell,2.342925344,AG-910,3194924,48,895072,78645,53.26387151,19.92,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSU regions found
+AG-910-A21,1 cell,2.795856679,AG-910,435733,32,273230,33757,29.08282399,15.44,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-A22,1 cell,2.398910567,AG-910,3744948,41,775988,101509,29.77945535,66.05,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,no SSU regions found
+AG-910-A23,1 cell,7.194556427,AG-910,296119,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-A24,No drop,15.35277778,AG-910,62651,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B01,No drop,15.41279025,AG-910,104181,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B02,1 cell,15.35277778,AG-910,68731,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B03,1 cell,1.824608708,AG-910,2560755,16,550431,96416,29.89893374,49.4,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-B04,1 cell,2.316422846,AG-910,2312974,27,170060,16789,22.88545219,3.2,0,k__Archaea (root);k__Archaea,no SSU regions found
+AG-910-B05,1 cell,1.909024477,AG-910,2279082,29,1083907,206270,29.37613651,93.19,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-B06,1 cell,8.403146433,AG-910,191374,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B07,1 cell,2.2960458,AG-910,3251804,42,751372,109892,30.66896291,61.28,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-B08,1 cell,2.58528265,AG-910,692324,27,487599,154566,30.66966913,34.48,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Kordia;s__Kordia_algicida,no SSU regions found
+AG-910-B09,1 cell,48059.07444,AG-910,315020,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B10,1 cell,2.186016956,AG-910,2943516,39,906875,139200,29.5286561,75.87,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSU regions found
+AG-910-B11,1 cell,2.076740674,AG-910,4281264,39,1212954,158981,35.84958704,59.1,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSU regions found
+AG-910-B12,No drop,15.35277778,AG-910,65,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B13,1 cell,2.334869443,AG-910,3068083,29,563096,64940,29.77449671,43.02,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSU regions found
+AG-910-B14,1 cell,2.05662453,AG-910,3103707,32,937222,116548,32.17476756,50.67,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSUs were classified
+AG-910-B15,1 cell,2.384703805,AG-910,544440,11,163899,66783,30.46144272,11.42,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,no SSU regions found
+AG-910-B16,1 cell,2.048067546,AG-910,2981968,44,869131,136879,29.71301219,70,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSUs were classified
+AG-910-B17,1 cell,2.249226938,AG-910,3534829,14,431617,88427,29.54146848,38.57,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-B18,1 cell,15.35277778,AG-910,86,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B19,1 cell,15.35277778,AG-910,121,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-B20,1 cell,2.103995208,AG-910,3931038,49,1258534,309263,31.6745515,83.06,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSUs were classified
+AG-910-B21,1 cell,1.902670566,AG-910,4489227,61,1930694,375705,31.19588086,75.14,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__?;s__?
+AG-910-B22,1 cell,1.963254568,AG-910,3705734,25,557781,125084,31.12422259,46.79,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-B23,1 cell,2.116051572,AG-910,2620191,17,295639,122178,29.25020041,37.74,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-B24,No drop,9.746330426,AG-910,109574,1,2199,2199,68.89495225,0,0,NA;unresolved,no SSU regions found
+AG-910-C01,No drop,12.06975272,AG-910,68369,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-C02,1 cell,1.747823197,AG-910,2274341,24,936322,204747,34.80180963,66.2,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-C03,1 cell,1.993348511,AG-910,2657708,27,775227,113788,29.44118303,62.26,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_3;g__?;s__?
+AG-910-C04,1 cell,2829.092508,AG-910,81745,1,2311,2311,65.29640848,0,0,NA;unresolved,no SSU regions found
+AG-910-C05,1 cell,2.553220439,AG-910,122032,14,178419,29431,53.9213873,0,0,NA;unresolved,no SSU regions found
+AG-910-C06,1 cell,2.38402147,AG-910,3136562,36,846272,99673,29.7106604,60.69,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-C07,1 cell,2.036095827,AG-910,2607916,58,1073833,91036,31.5522991,64.75,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-C08,1 cell,2.101616918,AG-910,2542207,26,777311,159135,29.21481878,78.68,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;f__;g__;s__,no SSU regions found
+AG-910-C09,1 cell,15.35277778,AG-910,264121,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-C10,1 cell,15.35277778,AG-910,248205,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-C11,1 cell,2.092498179,AG-910,3090071,20,620759,203788,29.46650794,76.54,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_2;g__?;s__?
+AG-910-C12,No drop,15.35277778,AG-910,442904,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-C13,1 cell,5.732920914,AG-910,441315,5,15408,4714,28.66692627,0.94,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;g__Candidatus_Pelagibacter,no SSU regions found
+AG-910-C14,1 cell,2.227365799,AG-910,3281944,37,965881,169728,29.08256814,72.4,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-C15,1 cell,2.261897406,AG-910,4198395,29,574514,101798,33.22147067,22.89,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-C16,1 cell,2.384363705,AG-910,3563858,33,796357,257351,29.83624179,79.94,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-C17,1 cell,2.102024035,AG-910,2707175,39,797338,95968,28.78979805,64.46,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-C18,1 cell,2.148481743,AG-910,3300474,32,979531,268683,29.54434316,79.52,1,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,no SSU regions found
+AG-910-C19,1 cell,15.35277778,AG-910,335453,2,4397,2368,63.04298385,0,0,NA;unresolved,no SSU regions found
+AG-910-C20,1 cell,2.316075583,AG-910,2815328,49,629775,42242,29.00305665,33.57,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-C21,1 cell,2.420773171,AG-910,2412182,53,760540,70320,29.62960528,65.38,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-C22,1 cell,8.106206418,AG-910,451587,1,3251,3251,37.80375269,0,0,NA;unresolved,no SSU regions found
+AG-910-C23,1 cell,2.146711158,AG-910,3307415,30,404089,73104,32.94892957,31.98,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,no SSU regions found
+AG-910-C24,No drop,15.35277778,AG-910,5511,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-D01,No drop,15.35277778,AG-910,94612,1,3215,3215,63.88802488,0,0,NA;unresolved,no SSU regions found
+AG-910-D02,1 cell,15.35277778,AG-910,210511,1,2625,2625,61.67619048,0,0,NA;unresolved,no SSU regions found
+AG-910-D03,1 cell,2.230346393,AG-910,2477303,6,127585,56880,28.91797625,10.91,0,k__Bacteria;p__Spirochaetes;c__Spirochaetia;o__Spirochaetales;f__Spirochaetaceae,k__Bacteria;p__Actinobacteria;c__Acidimicrobiia;o__Acidimicrobiales;f__OM1_clade;g__Candidatus_Actinomarina;s__?
+AG-910-D04,1 cell,3.671936667,AG-910,203433,5,29828,11096,30.1595816,0,0,NA;unresolved,no SSU regions found
+AG-910-D05,1 cell,2.603560755,AG-910,218494,22,205834,33791,28.56962407,4.17,0,NA;unresolved,no SSU regions found
+AG-910-D06,1 cell,3.938601773,AG-910,428477,6,37764,9679,28.94820464,5.66,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,no SSU regions found
+AG-910-D07,1 cell,2.103100682,AG-910,4398269,37,836198,133919,29.17072272,53.63,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11;unresolved,no SSU regions found
+AG-910-D08,1 cell,2.889858638,AG-910,692580,7,116584,43933,36.21680505,0,0,NA;unresolved,no SSU regions found
+AG-910-D09,1 cell,2.275551006,AG-910,2965714,38,758343,106645,35.72051169,45.95,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSU regions found
+AG-910-D10,1 cell,10.96279255,AG-910,201254,3,9326,3406,66.99549646,0,0,NA;unresolved,no SSU regions found
+AG-910-D11,1 cell,2.127154752,AG-910,2872879,18,364927,130699,30.28222083,39.62,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-D12,No drop,15.38112585,AG-910,277497,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-D13,1 cell,2.117923643,AG-910,3006142,51,1117975,115089,31.74006574,80.72,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-D14,1 cell,4.406336421,AG-910,487345,16,82042,11577,30.04071086,3.77,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-D15,1 cell,15.35277778,AG-910,352747,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-D16,1 cell,9.579731147,AG-910,374390,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-D17,1 cell,2.571225934,AG-910,614966,24,357657,33523,30.08972284,29.25,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-D18,1 cell,2.524074504,AG-910,3357525,43,722521,125364,29.39596219,63.25,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-D19,1 cell,1.983984724,AG-910,4465319,21,731037,85112,31.33794869,44.66,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-D20,1 cell,2.212629436,AG-910,3209738,43,585711,53346,32.61796347,32.08,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSUs were classified
+AG-910-D21,1 cell,2.558963817,AG-910,257892,19,292101,47863,36.84547468,12.23,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales_3;f__Alteromonadaceae;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-D22,1 cell,2.519559636,AG-910,3659997,44,562821,60127,53.75616759,0,0,NA;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__SAR116_clade;g__?;s__?
+AG-910-D23,1 cell,581.145885,AG-910,536418,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-D24,No drop,6.54680406,AG-910,708752,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E01,No drop,10.34612376,AG-910,55044,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E02,1 cell,2.307535522,AG-910,2441816,34,597708,61905,30.36298661,33.87,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-E03,1 cell,2.044424397,AG-910,2408120,46,773265,128638,29.38190659,52.83,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-E04,1 cell,1.850924733,AG-910,2577773,26,976784,219684,30.14228325,78.1,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,no SSU regions found
+AG-910-E05,1 cell,2.497897539,AG-910,2365527,27,268869,44129,26.27822471,2.76,0,k__Archaea (root);k__Archaea,no SSU regions found
+AG-910-E06,1 cell,2.039758267,AG-910,2539795,32,727043,178327,30.25020528,56.6,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;g__Candidatus_Pelagibacter,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-E07,1 cell,15.35277778,AG-910,254098,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E08,1 cell,3.125384761,AG-910,664669,3,18905,10956,30.97593229,0,0,NA;unresolved,no SSU regions found
+AG-910-E09,1 cell,2.106826259,AG-910,2494054,37,774839,151086,29.90388971,50,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-E10,1 cell,2.019066011,AG-910,2558512,46,1247571,148843,31.39797254,83.87,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,k__Bacteria;p__Cyanobacteria;c__Oxyphotobacteria;o__Synechococcales;f__Synechococcaceae;g__Prochlorococcus;s__?
+AG-910-E11,1 cell,15.35277778,AG-910,175552,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E12,No drop,10.99152778,AG-910,293241,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E13,1 cell,2.207806463,AG-910,2690349,24,508883,122220,29.77816119,49.04,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-E14,1 cell,2.450872725,AG-910,3079712,34,405011,49234,49.14360351,0,0,NA;unresolved,no SSU regions found
+AG-910-E15,1 cell,10.27730425,AG-910,371695,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E16,1 cell,3.442555587,AG-910,300927,12,63596,15370,27.71243474,0,0,NA;unresolved,no SSU regions found
+AG-910-E17,1 cell,31.7206954,AG-910,511675,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-E18,1 cell,3.258068262,AG-910,661640,11,103672,15770,27.80017748,0,0,NA;unresolved,no SSU regions found
+AG-910-E19,1 cell,1.973268672,AG-910,2535360,75,1417766,125487,30.25668552,51.97,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Cryomorphaceae,no SSU regions found
+AG-910-E20,1 cell,1.92095665,AG-910,3064395,41,960378,141655,29.5895991,46.82,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-E21,1 cell,1.901200161,AG-910,3312424,31,1040154,125446,29.27902984,83.24,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-E22,1 cell,1.908359652,AG-910,2497121,61,1108306,104893,31.94821647,37.93,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__SAR116_clade;g__?;s__?
+AG-910-E23,1 cell,1.96516404,AG-910,3241728,50,963957,110748,28.74900021,64.15,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSUs were classified
+AG-910-E24,No drop,8.551470045,AG-910,116910,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F01,No drop,15.35277778,AG-910,53363,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F02,1 cell,2.978844867,AG-910,204474,15,131299,21594,31.22339089,5.45,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Gelidibacter;s__Gelidibacter_mesophilus,no SSU regions found
+AG-910-F03,1 cell,2.405393375,AG-910,2167098,38,964520,128701,29.43536681,78.64,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-F04,1 cell,2.941654515,AG-910,159579,26,204076,21625,30.49550168,0,0,NA;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-F05,1 cell,2.125355336,AG-910,2686329,22,939643,209526,34.13530458,49.78,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-F06,1 cell,15.35277778,AG-910,64505,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F07,1 cell,2.054203855,AG-910,3778359,37,1084128,142087,29.40390803,64.46,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-F08,1 cell,12.37977169,AG-910,289124,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F09,1 cell,10.35682171,AG-910,278089,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F10,1 cell,2.378938443,AG-910,3192926,28,525515,69195,29.56927966,41,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-F11,1 cell,3.773878146,AG-910,413619,7,31557,9009,26.64068194,0,0,NA;unresolved,no SSU regions found
+AG-910-F12,No drop,15.35277778,AG-910,263810,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F13,1 cell,16.50165131,AG-910,375716,1,2315,2315,31.44708423,0,0,NA;unresolved,no SSU regions found
+AG-910-F14,1 cell,2.57479305,AG-910,695800,14,234265,99632,52.98145263,8.62,0,k__Bacteria;p__Cyanobacteria;c__Chroococcales;o__Chroococcales;f__Cyanobium;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__,no SSU regions found
+AG-910-F15,1 cell,2.01247304,AG-910,3950109,23,788298,198279,33.90037778,53.99,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-F16,1 cell,15.35277778,AG-910,497122,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F17,1 cell,2.006511279,AG-910,4332104,30,888194,147336,32.06810674,56.35,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__Oceanospirillaceae;unresolved,no SSUs were classified
+AG-910-F18,1 cell,15.35277778,AG-910,11079,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F19,1 cell,4.575760341,AG-910,579292,2,7150,4412,27.63636364,0,0,NA;unresolved,no SSU regions found
+AG-910-F20,1 cell,15.35277778,AG-910,469668,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F21,1 cell,4.905549956,AG-910,462862,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-F22,1 cell,7.279797626,AG-910,598847,10,29653,4715,31.1671669,0,0,NA;unresolved,no SSU regions found
+AG-910-F23,1 cell,2.745956475,AG-910,683374,14,206909,64349,53.25142937,0,0,NA;unresolved,no SSUs were classified
+AG-910-F24,No drop,15.35277778,AG-910,422387,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G01,No drop,10.73264594,AG-910,105795,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G02,1 cell,15.35277778,AG-910,279,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G03,1 cell,9.912783287,AG-910,61682,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G04,1 cell,541.2341424,AG-910,777495,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G05,1 cell,2.437397728,AG-910,2680997,56,637524,69601,28.78542612,29.48,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-G06,1 cell,1.894066647,AG-910,3187763,22,1155577,330630,30.87747506,69.81,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-G07,1 cell,2.331758116,AG-910,3161372,36,561447,73273,29.75721662,39.05,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-G08,1 cell,2.439955296,AG-910,698182,9,142799,52821,33.38468757,10.33,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,no SSU regions found
+AG-910-G09,1 cell,1.941483932,AG-910,3096359,27,1253135,248371,30.5178612,81.33,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-G10,1 cell,2.306642729,AG-910,3546951,34,543844,63715,29.27824891,54.88,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,no SSU regions found
+AG-910-G11,1 cell,2.035851361,AG-910,4015203,34,942715,251721,29.58476316,85.47,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_2;g__?;s__?
+AG-910-G12,No drop,15.35277778,AG-910,10990,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G13,1 cell,2.488480136,AG-910,3635370,23,277084,32349,36.65891932,5.17,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;o__;f__;g__;s__,no SSU regions found
+AG-910-G14,1 cell,2.157716761,AG-910,3392152,31,1085557,216435,34.62692424,57.65,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-G15,1 cell,15.35277778,AG-910,394856,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-G16,1 cell,7.188865095,AG-910,529064,1,5058,5058,46.06563859,0,0,NA;unresolved,no SSU regions found
+AG-910-G17,1 cell,2.354678769,AG-910,3327010,51,671627,79959,30.00623858,22.81,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-G18,1 cell,15.35277778,AG-910,342513,1,2721,2721,60.23520764,0,0,NA;unresolved,no SSU regions found
+AG-910-G19,1 cell,2.713842697,AG-910,405129,26,294798,30099,29.65318625,23.74,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSU regions found
+AG-910-G20,1 cell,4.868242091,AG-910,788370,6,24598,7050,32.9660948,4.17,0,NA;unresolved,no SSU regions found
+AG-910-G21,1 cell,1.920223615,AG-910,3473503,25,938904,177691,29.0482307,75.9,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-G22,1 cell,3.369369829,AG-910,204579,11,86751,15117,29.53164805,9.13,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-G23,1 cell,2.916952217,AG-910,557575,14,105194,18598,31.49514231,0,0,NA;unresolved,no SSU regions found
+AG-910-G24,No drop,7.746394668,AG-910,70493,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H01,10 cells,1.764567229,AG-910,78742,69,465920,65182,31.23068338,35.85,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-H02,No drop,10.94617223,AG-910,133569,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H03,No drop,11.96825011,AG-910,55529,1,2561,2561,63.52987114,0,0,NA;unresolved,no SSU regions found
+AG-910-H04,No drop,16.26886491,AG-910,140292,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H05,No drop,10.78834382,AG-910,174564,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H06,No drop,15.35277778,AG-910,12542,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H07,No drop,15.35277778,AG-910,255195,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H08,No drop,15.35277778,AG-910,24798,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H09,No drop,15.35277778,AG-910,305527,1,2094,2094,47.27793696,0,0,NA;unresolved,no SSU regions found
+AG-910-H10,No drop,10.56808012,AG-910,234631,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H11,No drop,15.35277778,AG-910,1314,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H12,10 cells,1.960627061,AG-910,406421,80,1247299,82663,32.57109963,66.01,2,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-H13,No drop,15.35277778,AG-910,188731,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H14,No drop,15.86082718,AG-910,460473,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H15,No drop,15.35277778,AG-910,1828,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H16,No drop,15.35277778,AG-910,149,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H17,No drop,15.35277778,AG-910,346837,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H18,No drop,15.35277778,AG-910,8587,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H19,No drop,15.35277778,AG-910,336184,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H20,No drop,15.35277778,AG-910,374341,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H21,No drop,15.35277778,AG-910,73801,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H22,No drop,15.35277778,AG-910,337251,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H23,No drop,15.35277778,AG-910,380937,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-H24,10 cells,1.715253052,AG-910,736595,119,1703043,115921,31.6988473,93.1,28,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_2;g__?;s__?
+AG-910-I01,No drop,11.87409501,AG-910,170705,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I02,1 cell,15.35277778,AG-910,219742,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I03,1 cell,1.999291329,AG-910,2596233,45,756077,148892,29.81217522,59.64,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-I04,1 cell,2.515614633,AG-910,2199359,56,636569,70185,28.34241064,31.03,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales,no SSU regions found
+AG-910-I05,1 cell,3.082907342,AG-910,354992,8,83974,27163,31.55143259,3.83,1,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-I06,1 cell,15.35277778,AG-910,385884,2,11586,7492,64.37942344,0,0,NA;unresolved,no SSU regions found
+AG-910-I07,1 cell,2.135404147,AG-910,3313764,39,956113,137377,31.14140274,55.15,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__NS4_marine_group;s__?
+AG-910-I08,1 cell,2.556432319,AG-910,631399,24,331528,41149,29.68497382,15.27,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-I09,1 cell,2.108367399,AG-910,2496375,45,969597,125768,30.55207473,68.02,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-I10,1 cell,8.050291728,AG-910,332450,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I11,1 cell,2.343843585,AG-910,3423690,54,754599,76343,29.47525772,46.23,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-I12,No drop,15.35277778,AG-910,1674,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I13,1 cell,9.266788442,AG-910,413948,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I14,1 cell,2.597784548,AG-910,498589,35,346398,32911,28.41153817,8.62,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,no SSU regions found
+AG-910-I15,1 cell,2.44423702,AG-910,2930614,58,1369123,97403,52.73908918,37.93,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Alteromonadales_3;f__Alteromonadaceae;o__;f__;g__;s__,no SSUs were classified
+AG-910-I16,1 cell,2.096814661,AG-910,725076,10,189224,40827,34.68957426,15.52,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Chromatiales;f__Halothiobacillaceae;g__Halothiobacillus;s__Halothiobacillus_neapolitanus,no SSU regions found
+AG-910-I17,1 cell,1.480674914,AG-910,391593,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I18,1 cell,15.35277778,AG-910,395033,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-I19,1 cell,15.35277778,AG-910,575017,1,2943,2943,59.97281685,0,0,NA;unresolved,no SSU regions found
+AG-910-I20,1 cell,3.17760355,AG-910,701066,14,88014,13160,30.53264253,0,0,NA;unresolved,no SSU regions found
+AG-910-I21,1 cell,5.121352566,AG-910,655582,9,31002,5022,31.01735372,7.21,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;f__;g__;s__,no SSU regions found
+AG-910-I22,1 cell,4.660023429,AG-910,227203,3,9363,4103,33.30129232,0.69,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-I23,1 cell,1.981763268,AG-910,5080878,60,792226,122681,31.63099924,57.56,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-I24,No drop,15.45401854,AG-910,726661,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J01,No drop,9.016886987,AG-910,132810,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J02,1 cell,3.4408153,AG-910,309462,5,43880,17564,26.72971741,3.77,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,no SSU regions found
+AG-910-J03,1 cell,2.238249846,AG-910,2406837,51,602946,57486,29.39633068,37.63,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-J04,1 cell,1.985146056,AG-910,2264501,48,1196796,116970,31.29062931,67.85,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,k__Bacteria;p__Cyanobacteria;c__Oxyphotobacteria;o__Synechococcales;f__Synechococcaceae;g__Prochlorococcus;s__?
+AG-910-J05,1 cell,1.926581937,AG-910,2491714,26,890729,177658,29.07045802,49.23,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-J06,1 cell,2.220660873,AG-910,2382006,30,727401,94031,33.12794456,56.6,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_4;g__?;s__?
+AG-910-J07,1 cell,2.274858389,AG-910,3075632,26,816592,197796,34.2844407,48.42,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSUs were classified
+AG-910-J08,1 cell,2.439970555,AG-910,2782708,39,541506,109323,28.80005023,48.12,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSU regions found
+AG-910-J09,1 cell,2.53819467,AG-910,505725,4,80033,34583,29.33539915,13.21,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;g__Candidatus_Pelagibacter,no SSU regions found
+AG-910-J10,1 cell,15.35277778,AG-910,10465,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J11,1 cell,2.812816201,AG-910,514283,16,301673,83443,28.99994365,12.5,0,NA;unresolved,no SSU regions found
+AG-910-J12,No drop,15.35277778,AG-910,430,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J13,1 cell,3.136209561,AG-910,586953,34,230095,18337,29.39177296,0.86,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae,no SSU regions found
+AG-910-J14,1 cell,4094.025878,AG-910,345318,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J15,1 cell,3.042252624,AG-910,545371,28,323675,40868,34.91032672,16.46,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-J16,1 cell,1.935101501,AG-910,3441775,32,756317,212369,30.84910163,55.21,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-J17,1 cell,10.36684498,AG-910,586981,2,7414,4763,46.93822498,0,0,NA;unresolved,no SSU regions found
+AG-910-J18,1 cell,15.35277778,AG-910,193219,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J19,1 cell,15.35277778,AG-910,414360,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J20,1 cell,2.657035014,AG-910,647447,43,609093,48477,30.0177477,53.29,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-J21,1 cell,2.58557661,AG-910,843512,47,662644,76412,30.39550649,54.72,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-J22,1 cell,1.751643625,AG-910,3982492,36,1096647,186782,29.75114143,80.72,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-J23,1 cell,15.35277778,AG-910,13,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-J24,No drop,7.23990758,AG-910,699648,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-K01,No drop,6.652375389,AG-910,177373,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-K02,1 cell,2.00922725,AG-910,2251875,39,1147435,293404,29.65196286,78.31,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-K03,1 cell,2.029402476,AG-910,2479474,56,1067614,103436,29.79054227,56.34,1,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-K04,1 cell,9.697502017,AG-910,111598,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-K05,1 cell,5.763240582,AG-910,200826,6,27436,7854,40.97171599,4.17,0,NA;unresolved,no SSU regions found
+AG-910-K06,1 cell,2.260058402,AG-910,2095606,46,605890,130383,29.06567199,36.07,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-K07,1 cell,2.291782139,AG-910,2457914,50,986306,133483,29.41713829,66.27,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-K08,1 cell,2.076715139,AG-910,3828712,35,1002346,138671,29.92699128,72.18,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-K09,1 cell,2.129818482,AG-910,3723288,77,1562531,116209,31.4263205,61.38,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;unresolved,no SSU regions found
+AG-910-K10,1 cell,2.526706124,AG-910,3360312,35,484408,51107,31.88035705,30.65,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,no SSU regions found
+AG-910-K11,1 cell,15.35277778,AG-910,203383,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-K12,No drop,8.747863859,AG-910,299457,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-K13,1 cell,10.25691852,AG-910,381281,2,5879,3106,56.13199524,0,0,NA;unresolved,no SSU regions found
+AG-910-K14,1 cell,3823.223174,AG-910,379389,2,5167,2746,64.29262628,0,0,NA;unresolved,no SSU regions found
+AG-910-K15,1 cell,6.727005153,AG-910,291622,1,10075,10075,62.56079404,0,0,NA;unresolved,no SSU regions found
+AG-910-K16,1 cell,2.398610551,AG-910,3211189,6,125510,46186,29.39048681,16.26,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-K17,1 cell,2.02574543,AG-910,3737655,37,930001,376794,31.21899869,70.48,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSUs were classified
+AG-910-K18,1 cell,2.613353669,AG-910,391833,6,135245,45195,28.03430811,8.33,0,NA;unresolved,no SSU regions found
+AG-910-K19,1 cell,2.574807595,AG-910,595310,38,687880,115034,29.85331744,62.26,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-K20,1 cell,1.929355741,AG-910,4734559,32,765380,94086,34.86712483,51.72,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-K21,1 cell,2.19218516,AG-910,3690772,24,507244,98377,29.53588411,35.47,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-K22,1 cell,2.668136667,AG-910,280206,24,288059,54612,33.19806012,20.83,0,NA;unresolved,no SSUs were classified
+AG-910-K23,1 cell,3.658247255,AG-910,503304,10,63456,11192,29.36995714,3.85,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Enterobacteriales;f__Enterobacteriaceae;g__Buchnera;s__Buchnera_aphidicola,no SSU regions found
+AG-910-K24,No drop,6.280461977,AG-910,93813,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L01,No drop,23.1822169,AG-910,111743,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L02,1 cell,4.752645413,AG-910,126884,14,134319,41293,32.28433803,13.79,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,k__Bacteria;p__Actinobacteria;c__Acidimicrobiia;o__Acidimicrobiales;f__OM1_clade;g__Candidatus_Actinomarina;s__?
+AG-910-L03,1 cell,15.35277778,AG-910,124140,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L04,1 cell,2.190764414,AG-910,2524554,32,496875,93199,30.03612579,40.56,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,no SSU regions found
+AG-910-L05,1 cell,5.077347191,AG-910,336965,4,29425,9029,32.8700085,5.17,0,k__Bacteria;p__Dictyoglomi;c__Dictyoglomia;o__Dictyoglomales;f__Dictyoglomaceaeg__Dictyoglomus;f__Dictyoglomaceaeg__Dictyoglomus,no SSU regions found
+AG-910-L06,1 cell,2.177894048,AG-910,2859537,28,837253,120383,32.86808169,59.96,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-L07,1 cell,2.063303126,AG-910,3038116,45,1247945,293674,40.35514386,39.66,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;o__;f__;g__;s__,no SSU regions found
+AG-910-L08,1 cell,15.35277778,AG-910,63,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L09,1 cell,2.765355753,AG-910,662903,6,57709,29080,32.63442444,0,0,NA;unresolved,no SSU regions found
+AG-910-L10,1 cell,2.599054538,AG-910,557078,27,363861,50078,29.49258096,16.98,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-L11,1 cell,2.99606589,AG-910,427350,20,178072,26420,28.68109529,24.74,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,no SSU regions found
+AG-910-L12,No drop,3.6086593,AG-910,347698,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L13,1 cell,15.35277778,AG-910,129159,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L14,1 cell,3.614337073,AG-910,607544,2,15774,13602,30.7151008,0,0,NA;unresolved,no SSU regions found
+AG-910-L15,1 cell,2.931452757,AG-910,450049,40,571341,50327,29.88442979,43.4,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-L16,1 cell,15.35277778,AG-910,56,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-L17,1 cell,1.895632013,AG-910,4107536,21,1089091,272593,33.57322758,59.77,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-L18,1 cell,3.323885812,AG-910,733697,17,155170,28669,29.77572984,4.17,0,NA;unresolved,no SSU regions found
+AG-910-L19,1 cell,1.987892841,AG-910,3295924,26,974679,150494,29.70167614,77.38,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-L20,1 cell,5.187744969,AG-910,695829,9,31542,6252,30.20100184,1.89,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-L21,1 cell,2.08844619,AG-910,4952874,42,642622,130469,29.69957456,41.51,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-L22,1 cell,4.826663128,AG-910,389934,18,85067,12453,30.55356366,0.86,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;unresolved,no SSU regions found
+AG-910-L23,1 cell,3.879932703,AG-910,724760,13,48810,10600,33.73079287,4.17,0,NA;unresolved,no SSU regions found
+AG-910-L24,No drop,15.48013685,AG-910,551883,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-M01,No drop,10.27496748,AG-910,111133,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-M02,1 cell,1.920762736,AG-910,2317863,64,1128449,191928,30.87432396,72.79,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__NS4_marine_group;s__?
+AG-910-M03,1 cell,2.824595267,AG-910,109633,20,140216,20745,34.29280539,17.24,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,no SSU regions found
+AG-910-M04,1 cell,4.042103276,AG-910,113338,9,43291,7399,62.75438313,0,0,NA;unresolved,no SSU regions found
+AG-910-M05,1 cell,2.747107702,AG-910,152017,40,416643,65739,30.11667063,28.07,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae,no SSU regions found
+AG-910-M06,1 cell,2.616867432,AG-910,256022,29,421843,102526,30.57417096,27.59,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,no SSU regions found
+AG-910-M07,1 cell,2.263836817,AG-910,2190771,36,783678,124262,29.36014537,51.15,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-M08,1 cell,2.256008898,AG-910,2985629,34,761956,135264,29.92128154,54.89,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-M09,1 cell,2.248483924,AG-910,2408918,26,704009,109096,30.16808024,43.4,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-M10,1 cell,2.145578082,AG-910,2553250,25,757654,179180,33.39585088,54.19,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,k__Bacteria;p__Actinobacteria;c__Acidimicrobiia;o__Acidimicrobiales;f__OM1_clade;g__Candidatus_Actinomarina;s__?
+AG-910-M11,1 cell,2.080331806,AG-910,3813173,32,884328,178312,29.80409984,63.2,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSUs were classified
+AG-910-M12,No drop,15.35277778,AG-910,253381,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-M13,1 cell,2.280956504,AG-910,3642767,29,786552,78858,32.34382469,56.9,0,k__Bacteria;p__Deinococcus-Thermus;c__Deinococci,no SSU regions found
+AG-910-M14,1 cell,2.885800112,AG-910,468230,25,376579,69360,29.39755005,31.48,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;f__;g__;s__,no SSU regions found
+AG-910-M15,1 cell,15.35277778,AG-910,326276,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-M16,1 cell,2.146539277,AG-910,4784362,40,779770,134681,33.22954204,61.25,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,no SSU regions found
+AG-910-M17,1 cell,15.35277778,AG-910,279290,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-M18,1 cell,3.708474158,AG-910,580900,18,111887,20554,29.76485204,0,0,NA;unresolved,no SSU regions found
+AG-910-M19,1 cell,2.073400973,AG-910,4583731,24,753510,113431,29.9490385,41.51,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-M20,1 cell,2.047922234,AG-910,3416554,8,373461,129287,30.43851968,30.67,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-M21,1 cell,1.847873056,AG-910,4182229,23,910570,206326,29.2829766,88.1,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-M22,1 cell,8.830108701,AG-910,131331,1,5557,5557,65.08907684,0,0,NA;unresolved,no SSU regions found
+AG-910-M23,1 cell,1.88712155,AG-910,2787950,32,1019154,105210,29.04732749,84.34,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-M24,No drop,15.35277778,AG-910,68438,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-N01,No drop,15.35277778,AG-910,97623,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-N02,1 cell,15.35277778,AG-910,509038,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-N03,1 cell,2.076381151,AG-910,2552169,38,719554,175909,32.86855469,44.48,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Francisellaceae;g__Francisella,no SSUs were classified
+AG-910-N04,1 cell,3.289724066,AG-910,128960,25,214674,27694,29.24853499,21.76,2,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-N05,1 cell,3.775536062,AG-910,258394,2,24906,17534,31.8878985,0,0,NA;unresolved,no SSU regions found
+AG-910-N06,1 cell,2.064572491,AG-910,2141810,37,847511,172768,31.02319616,39.66,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-N07,1 cell,2.605934433,AG-910,503822,22,331225,43687,29.96331799,16.98,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;unresolved,no SSU regions found
+AG-910-N08,1 cell,3.386260742,AG-910,488713,34,415410,61971,30.27707566,37.74,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-N09,1 cell,10.11670135,AG-910,568938,1,4279,4279,37.0413648,0,0,NA;unresolved,no SSU regions found
+AG-910-N10,1 cell,3.311529096,AG-910,445802,5,47384,15931,31.07378018,4.66,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11;unresolved,no SSU regions found
+AG-910-N11,1 cell,2.424843049,AG-910,4347556,55,795334,90786,52.13080291,14.48,0,k__Bacteria;p__Cyanobacteria;c__Chroococcales;o__Chroococcales;f__Cyanobium;f__Synechococcus;g__Synechococcus;s__,no SSU regions found
+AG-910-N12,No drop,10.81564943,AG-910,273936,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-N13,1 cell,15.35277778,AG-910,388313,2,6013,3677,63.32945285,0,0,NA;unresolved,no SSU regions found
+AG-910-N14,1 cell,2.089290175,AG-910,3129610,50,1030633,99386,28.64142716,55.42,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__AEGEAN-169_marine_group;s__?
+AG-910-N15,1 cell,2.553888808,AG-910,473037,34,404206,57059,30.7402661,32.08,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-N16,1 cell,15.35277778,AG-910,343432,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-N17,1 cell,5.500438327,AG-910,625539,8,27225,4603,28.62442608,0,0,NA;unresolved,no SSU regions found
+AG-910-N18,1 cell,2.988999294,AG-910,710295,30,231813,35787,29.96251289,13.69,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-N19,1 cell,2.716072023,AG-910,852493,2,34229,25746,32.73539981,6.9,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;unresolved,no SSU regions found
+AG-910-N20,1 cell,1.939418332,AG-910,4122699,26,448926,105999,30.04637735,43.37,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__?;g__?;s__?
+AG-910-N21,1 cell,1.722054357,AG-910,2679743,45,1383495,154737,36.83576739,46.87,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae,no SSU regions found
+AG-910-N22,1 cell,15.69305816,AG-910,129453,1,2960,2960,64.39189189,0,0,NA;unresolved,no SSU regions found
+AG-910-N23,1 cell,2.46091729,AG-910,2790554,31,259038,27628,29.64507138,11.94,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-N24,No drop,15.35277778,AG-910,186026,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O01,No drop,15.35277778,AG-910,137633,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O02,1 cell,2.506428058,AG-910,260820,2,30782,24052,29.38405562,0,0,NA;unresolved,no SSU regions found
+AG-910-O03,1 cell,2.043898567,AG-910,2686772,41,929478,130895,29.65987361,78.28,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-O04,1 cell,2.055423088,AG-910,2622003,41,1003609,170242,31.36291125,54.43,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__SAR86_clade;g__?;s__?
+AG-910-O05,1 cell,2.157941063,AG-910,2914835,29,638668,165415,29.72342438,44.96,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-O06,1 cell,8.794915572,AG-910,299924,2,5400,2911,29.2962963,0,0,NA;unresolved,no SSU regions found
+AG-910-O07,1 cell,2.973624215,AG-910,85223,18,187887,26272,30.456072,15.09,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-O08,1 cell,15.35277778,AG-910,17155,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O09,1 cell,2.060363622,AG-910,2213196,34,635898,134810,31.5398067,21.7,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-O10,1 cell,2.311994944,AG-910,3146556,33,636873,88278,31.16524017,40.76,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-O11,1 cell,2.213135664,AG-910,2921547,38,716645,156573,29.60880213,57.12,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-O12,No drop,15.35277778,AG-910,252504,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O13,1 cell,2.590528733,AG-910,492145,22,192906,20422,31.71596529,13.21,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-O14,1 cell,15.35277778,AG-910,391003,2,6787,3595,67.87977015,0,0,NA;unresolved,no SSU regions found
+AG-910-O15,1 cell,2.129617293,AG-910,3431868,44,933370,116707,29.52366157,51.26,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-O16,1 cell,15.35277778,AG-910,291849,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O17,1 cell,11.01012067,AG-910,507617,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O18,1 cell,5.169771637,AG-910,454168,5,16948,4539,31.21312249,0,0,NA;unresolved,no SSU regions found
+AG-910-O19,1 cell,6.406961176,AG-910,415499,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-O20,1 cell,1.868602186,AG-910,3094027,25,802803,116908,29.82873756,56.7,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter-like;s__Candidatus_Pelagibacter-like_SAR11,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__SAR11_clade;f__Surface_1;g__?;s__?
+AG-910-O21,1 cell,2.797940171,AG-910,586553,7,43796,14262,30.24705453,0,0,NA;unresolved,no SSU regions found
+AG-910-O22,1 cell,1.899633284,AG-910,2916067,40,747372,90340,31.41340591,49.45,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-O23,1 cell,2.445796406,AG-910,4782349,47,853790,75884,30.37257405,45.25,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,no SSU regions found
+AG-910-O24,No drop,10.73639265,AG-910,251228,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P01,1 cell,2.216149956,AG-910,2199174,39,674055,60670,29.39730437,56.56,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-P02,1 cell,2.720426928,AG-910,114916,17,173856,24686,29.04012516,6.9,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,no SSU regions found
+AG-910-P03,1 cell,1.951786264,AG-910,2577863,34,714977,101271,30.69651192,36.14,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;o__;f__;g__;s__,no SSU regions found
+AG-910-P04,1 cell,2.181244884,AG-910,2332752,59,1088902,84609,31.46729458,48.9,0,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae,k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__NS5_marine_group;s__?
+AG-910-P05,1 cell,8.146987803,AG-910,376234,1,4343,4343,34.28505641,0,0,NA;unresolved,no SSU regions found
+AG-910-P06,1 cell,2.378667181,AG-910,2066507,25,399292,77852,32.24181802,25.89,0,k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__;f__;g__;s__,no SSU regions found
+AG-910-P07,1 cell,2.414591762,AG-910,2513655,47,681648,94650,31.31528296,38.06,0,k__Bacteria;p__Cyanobacteria;c__Prochlorales;o__Prochlorales;f__Prochlorococcaceae;g__Prochlorococcus;s__Prochlorococcus_marinus;unresolved,no SSU regions found
+AG-910-P08,1 cell,2.538867081,AG-910,3001784,25,591018,81973,32.25739318,44.83,0,k__Bacteria;p__Actinobacteria;c__Actinobacteria;o__Acidimicrobiales;f__Acidimicrobiaceae;g__Acidimicrobium;s__Acidimicrobium_ferrooxidans,no SSU regions found
+AG-910-P09,1 cell,15.35277778,AG-910,120268,1,5317,5317,60.8990032,0,0,NA;unresolved,no SSU regions found
+AG-910-P10,1 cell,9.271656409,AG-910,199880,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P11,1 cell,15.35277778,AG-910,241,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P12,No drop,16.25468067,AG-910,186275,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P13,1 cell,2.418581885,AG-910,3502173,70,939837,99836,29.16686617,43.07,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;unresolved,no SSU regions found
+AG-910-P14,1 cell,15.35277778,AG-910,2414,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P15,1 cell,7.601817322,AG-910,596449,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P16,1 cell,10.12094658,AG-910,246636,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P17,1 cell,2.039478928,AG-910,3348772,36,722365,75815,29.58947347,50.66,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;unresolved,no SSU regions found
+AG-910-P18,1 cell,14.92727056,AG-910,396153,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P19,1 cell,2.463175069,AG-910,3746824,27,421289,51635,29.40095754,32.93,0,k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__Pelagibacteraceae;g__Candidatus_Pelagibacter;s__Candidatus_Pelagibacter_ubique,no SSU regions found
+AG-910-P20,1 cell,2.624678246,AG-910,328328,32,128406,11562,46.48614551,0,0,NA;unresolved,no SSU regions found
+AG-910-P21,1 cell,7.747818614,AG-910,270373,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P22,1 cell,15.18422843,AG-910,66744,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P23,1 cell,15.35277778,AG-910,529358,NA,NA,NA,NA,NA,NA,NA,NA
+AG-910-P24,No drop,10.97163916,AG-910,68509,NA,NA,NA,NA,NA,NA,NA,NA
