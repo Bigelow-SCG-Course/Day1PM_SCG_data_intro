@@ -8,7 +8,7 @@ Navigate into your user_lab directory and clone the lesson repository:
 
 ```
 $ cd ~/storage/user_lab/{your_username}/
-$ git clone git@github.com:Bigelow-SCG-Course/Day1PM_SCG_data_intro.git
+$ git clone https://github.com/Bigelow-SCG-Course/Day1PM_SCG_data_intro.git
 ```
 
 When running notebooks related to this lesson, select the 'biopy' kernel/environment in the upper right-hand corner of your notebook.  
